@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Anonify</string>
+    <string name="start_signup_button">Need A New Account?</string>
+    <string name="start_login_button">Already Have An Account?</string>
+    <string name="signupUsername">Username</string>
+    <string name="signupEmail">Email</string>
+    <string name="signupPassword">Password</string>
+    <string name="signupSignupButton">Sign Up</string>
+    <string name="menuItemLogout">Logout</string>
+    <string name="menuItemAdjustDistance">Adjust Distance</string>
+    <string name="menuItemCreateAnonRoom">Create Anon Room</string>
+    <string name="menuItemChangePicture">Change Picture</string>
+    <string name="createANewAccount">Create A New Account</string>
+    <string name="loginText">Login</string>
+    <string name="searchDistance">Search Distance:</string>
+    <string name="selectProfilePicture">Select Profile Picture</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anonChatRooms">Anon Chat Rooms</string>
+    <string name="userChats">User Chats</string>
+    <string name="writeTitleOfRoom">Title of anonymous chat room</string>
+    <string name="createRoom">Create Room</string>
+    <string name="noInternetConnection">You do not have internet connection. Please check your settings</string>
+    <string name="titleOfChatRoom">Title of chat room can not be shorter than 3 characters</string>
+    <string name="imageNotPicked">You have not picked Image</string>
+    <string name="wentWrong">Something went wrong. Please try again.</string>
+    <string name="noLocation">Location could not get, please check your location settings</string>
+    <string name="usernameExits">Username exists. Please try again with a different username</string>
+    <string name="pleaseFillAllFields">Please fill all fields</string>
+    <string name="blankMessageError">Message can not be blank</string>
+</resources>

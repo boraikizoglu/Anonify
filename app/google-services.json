@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57298692643",
+    "firebase_url": "https://ninonify.firebaseio.com",
+    "project_id": "ninonify",
+    "storage_bucket": "ninonify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57298692643:android:489a56c18e4d82f5",
+        "android_client_info": {
+          "package_name": "com.example.os.anonify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57298692643-vros1pq96bu04gonmtpqfmvllof9ub8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.os.anonify",
+            "certificate_hash": "4df2fe211c79d021d1bd8fa84ec6e5e41179e957"
+          }
+        },
+        {
+          "client_id": "57298692643-m42cjncm06qlvunmjjdgs1abfr2mkfln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IkxwkYLuwjUWOXRGGW0xQXEo7TPZohU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57298692643-m42cjncm06qlvunmjjdgs1abfr2mkfln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
