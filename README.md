@@ -6,10 +6,6 @@ non-anonymously. It instantly connects you with new people around. Once users cr
 own nickname, then they are all ready to chat. It's just that fast and easy!
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/boraikizoglu/Anonify/master/demo/anonify_demo2.gif" width="490" height="460">
-</p>
-
-<p align="center">
 <img align="center" src="https://raw.githubusercontent.com/boraikizoglu/Anonify/master/demo/anonify_demo.gif" width="490" height="460">
 </p>
 
